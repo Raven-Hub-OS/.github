@@ -11,23 +11,15 @@
 
 ---
 
-<h2 align="center">🪶 What we build</h2>
-<p align="center">Open-source tools and services for Discord communities — from moderation and economy to Clash of Clans CWL reporting and custom bot development.</p>
+<h2 align="center">📦 Open Source Projects</h2>
+<p align="center">Publicly available repositories under the <b>Raven-Hub-OS</b> organization.</p>
 
 <table align="center">
   <tr>
     <td align="center"><b>🪶 CWL Report</b><br/>
-    Windows desktop app that turns Clash of Clans Clan War Leagues history into a clean, shareable Excel report.<br/><br/>
-    <code>Electron · React · TypeScript · ExcelJS</code><br/><br/>
+    A free Windows desktop app that turns Clash of Clans Clan War Leagues history into a clean, shareable Excel report. Paste clan tags, generate the latest finished season, preview per-player stats, and export styled XLSX workbooks.<br/><br/>
+    <code>Electron · React 19 · TypeScript · ExcelJS · Vite</code><br/><br/>
     <a href="https://github.com/Raven-Hub-OS/Raven-Hub---Clash-of-Clans-CWL-Report">View repository →</a></td>
-    <td align="center"><b>🤖 Raven Bot</b><br/>
-    Modular Discord bot with tickets, giveaways, moderation, economy, and database-backed server settings.<br/><br/>
-    <code>discord.js · Node.js · PostgreSQL · Docker</code><br/><br/>
-    <a href="https://github.com/Raven-Hub-OS/raven-bot">View repository →</a></td>
-    <td align="center"><b>🌐 Website</b><br/>
-    Official storefront and documentation hub for custom Discord bot packs and hosting.<br/><br/>
-    <code>HTML · CSS · JavaScript · Netlify</code><br/><br/>
-    <a href="https://ravenhub.store" target="_blank">Visit website →</a></td>
   </tr>
 </table>
 
