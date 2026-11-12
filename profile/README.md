@@ -25,15 +25,6 @@
 
 ---
 
-<h2 align="center">📊 Raven Hub at a glance</h2>
-<p align="center">
-  <a><img src="https://img.shields.io/badge/0%20%E2%82%AC-Free%20core%20tools-34d399?style=for-the-badge" alt="Free" /></a>
-  <a><img src="https://img.shields.io/badge/%E2%88%9E-Servers%20supported-22d3ee?style=for-the-badge" alt="Servers" /></a>
-  <a><img src="https://img.shields.io/badge/0-Telemetry%20%2F%20tracking-ef4444?style=for-the-badge" alt="No Telemetry" /></a>
-</p>
-
----
-
 <h2 align="center">🚀 Join the community</h2>
 <p align="center">Get support, suggest features, and stay updated on new releases.</p>
 
